@@ -11,3 +11,5 @@ description: "Cycling motivation App"
 categories: ["project"]
 tags: []
 ---
+
+<embed src="/assets/pedalpedal.pdf" type="application/pdf">
