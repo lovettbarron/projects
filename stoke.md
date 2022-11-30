@@ -2,7 +2,7 @@
 layout: post
 title: "Stoke"
 date: "2013-10-15"
-slug: "knowsi"
+slug: "stoke"
 url: False
 alive: False
 author: "Andrew Lovett-Barron"

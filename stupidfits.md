@@ -2,7 +2,7 @@
 layout: post
 title: "Stupid Fits"
 date: "2019-11-15"
-slug: "knowsi"
+slug: "stupidfits"
 url: "https://stupidfits.com"
 alive: True
 author: "Andrew Lovett-Barron"
