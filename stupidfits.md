@@ -9,5 +9,5 @@ author: "Andrew Lovett-Barron"
 image: "/assets/stupidfits.png"
 description: "Fashion Community App"
 categories: ["project"]
-tags: []
+tags: ["indie"]
 ---
